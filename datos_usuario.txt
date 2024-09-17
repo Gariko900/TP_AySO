@@ -1,1 +1,6 @@
 vagrant=vagrant
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+model name	: Intel(R) Pentium(R) CPU  N3540  @ 2.16GHz
