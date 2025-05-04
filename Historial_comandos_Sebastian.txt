@@ -1,0 +1,256 @@
+hostnamectl --help
+hostnamectl status
+hostnamectl hostname
+localectl --help
+passwd -help
+man passwd
+sudo mandb
+man -k network
+apropos networking whoami
+pwd
+ls
+apt
+sudo apt update
+sudo apt install tree
+tree
+cat
+cat archivo .txt
+cv hola
+cat > arhio.txt
+cat $HOME/.ssh/*.pub
+$HOME
+cat $HOME/.ssh/*.pub
+ls
+-l ls
+ls man
+-s ls
+cd repogit/
+ls
+cd UTN-FRA_SO_onBording/
+ls
+cd ssh
+ls
+cd config.d/
+ls
+cd
+ls -a
+cd .ssh
+ls
+ls -a
+$HOME
+ls
+$HOME
+cd
+cd ..
+ls
+cd vagrant/
+ls -a
+cd .ssh
+ls -a
+cd ..
+ls 
+$HOME
+ls
+cd home
+ls
+cd vagrant/
+ls -a
+cd ..
+ls -a
+cd ..
+ls -a
+cat $HOME/.ssh/*.pub
+cd ..
+cat $HOME/.ssh/
+pwd
+cd home/
+ls -a
+cd vagrant/
+ls -a
+cat $HOME/.ssh/*.pub
+cd .ssh
+ls -a
+cat authorized_keys 
+cd ..
+ls
+cd repogit/
+cd ..
+pwd
+cd ..
+ls
+cd ..
+ls
+cd home/
+mkdir repogit
+w
+pws
+mkdir repogit
+vvpwd
+wd
+vagran vagrant@VMPruebas:/home$ vagran
+pppvagrant@VMPruebas:/home$ vagran
+vagrant@VMPruebas:/home$ vagran
+history
+pwd
+cd ~
+pwd
+cd ..
+mkdir repogit
+sudo mkdir repogit
+cd repogit/
+pwd
+git clone git@github.com:Gariko900/TP_AySO.git
+sudo git clone git@github.com:Gariko900/TP_AySO.git
+cd ..
+pwd
+ssh-keygen
+ls -a
+validlocale 
+cd vagrant/
+ls -a
+cd .ssh/
+ls -a
+cat id_rsa
+ls -l
+cat authorized_keys 
+cd ..
+pwd
+cd ..
+ssh-keygen
+cat $HOME/.ssh/*.pub
+ls
+cd repogit/
+git clone git@github.com:Gariko900/TP_AySO.git
+sudo git clone git@github.com:Gariko900/TP_AySO.git
+pwd
+cd ..
+sudo chown vagrant:vagrant /home/repogit
+cd /home/repgot
+ls
+cd repogit/
+git clone git@github.com:Gariko900/TP_AySO.git
+ls
+cd TP_AySO/
+pwd
+ls -l
+ls -a
+cat /etc/os-release
+grep
+grep --help
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+man grep
+grep -i HOME_URL /etc/os-release
+whoami
+pwd
+echo “Usuario=$(whoami)” > datos_usuario.txt
+ls
+git add .
+git config --global user.email "floresseba961@gmail.com"
+git config --global user.name "Gariko900"
+git commit -m "ADD: agregado 1er
+ejercicio sobre datos_usuarios.txt" 
+git status
+git push
+grep /proc/cpuinfo
+l
+/proc/cpuinfo
+cat /proc/cpuinfo
+g""""""""mode   naamit status
+grep -m 1 "model name" /proc/cpuinfo >> datos_usuarios.txt
+agregado 1er
+git agit add . git add . 
+git commit -m "ADD: agregado 1er
+git add .
+
+history
+git status
+cat /proc/cpuinfo
+grep -m 1 "model name" /proc/cpuinfo >> datos_usuarios.txt
+git add .
+git commit -m "feat: Añadiendo informacion de CPU"
+pwd
+ls
+cd repogit/
+ls
+cd UTN-FRA_SO_onBording/
+ls
+cd ..
+ls
+pwd
+ls
+cd repogit/
+ls -a
+cd ..
+ls
+cd repogit/
+ls
+cd TP_AySO/
+ls
+git status
+cat datos_usuario.txt 
+cat /proc/cpuinfo
+grep -m 1 "model name" /proc/cpuinfo >> datos_usuarios.txt
+git commit -m "feat: Añadiendo informacion de CPU"
+git add .
+git commit -m "feat: Añadiendo informacion de CPU"
+cat datos_usuario.txt 
+git status
+git push
+cat datos_usuario.txt 
+cat datos_usuarios.txt 
+grep -m 1 "model name" /proc/cpuinfo >> datos_usuario.txt
+git add .
+grep -m 1 "model name" /proc/cpuinfo >> datos_usuario.txt
+git status
+git push
+git status
+git add datos_usuario.txt 
+git push
+cat datos_usuario.txt 
+git stauts
+cat datos_usuario.txt 
+git add datos_usuario.txt 
+git status
+git push
+cat datos_usuario.txt 
+git add datos_usuario.txt 
+git commit -m "feat: Añadiendo informacion de CPU"
+git status
+git push
+ls
+cat README.md 
+echo <<Alumno: Sebastian Flores>> README.md
+ls
+vagrant halt 
+pwd
+ls
+cd  ..
+ls
+cd repogit/
+ls
+cd TP_AySO/
+ls
+cat <<EOF>> README.md
+Alumno: Sebastian Flores
+Division: 315
+Turno: Noche
+EOF
+
+git add README.md datos_usuario.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+git branch
+git pull origin master
+git add README.md 
+git commit
+git push
+git pull origin main
+git add README.md 
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+git pushh --help
+git pull origin main
+git push --force
+history
+history -a
